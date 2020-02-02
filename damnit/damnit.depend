@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1463569444 source:g:\level1 term1\cse\damnit\imain.cpp
+	"iGraphics.h"
+
+1462295269 g:\level1 term1\cse\damnit\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1385316878 source:g:\level1 term1\cse\damnit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1462295269 source:g:\level1 term1\cse\damnit\mousedemo.cpp
+	"iGraphics.h"
+
+1462734138 source:g:\level1 term1\cse\damnit\time2.c
+	<stdio.h>
+	<time.h>
+
